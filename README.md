@@ -8,6 +8,8 @@
 
 ## 前言
 
+haaha
+
 该项目为前后端分离项目的前端部分，后端项目`mall`地址：[传送门](https://github.com/macrozheng/mall)。
 
 ## 特别赞助商
